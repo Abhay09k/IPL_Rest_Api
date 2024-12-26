@@ -8,6 +8,8 @@ public class IplRestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IplRestApiApplication.class, args);
+	
+	System.out.println("started");
 	}
 
 
